@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>www.website.com</title>
+  <link rel="stylesheet" href="../CSS/test.css">
+  <script>
+    function displayDate(){
+        document.getElementById("section1").innerHTML=Date();
+    }
+    </script>
+</head>
+<body>
+<nav>
+    <a href="index.html">首页</a>
+    <a href="images.html">图像</a>
+    <a href="test.html" class="activated">测试</a>
+    <a href="login.html" style="float:right;">登陆</a>
+</nav>
+<div class="header">
+    <h2>此网页用于测试html+css+javascript代码</h2><hr/>
+</div>
+<div>
+    <p id="section1">Here will be displayed datetime.</p>
+    <button type="button" onclick="displayDate()">Show time</button>
+    <p id="section2">
+        JavaScript 能改变 HTML 元素的内容。
+        </p>
+        <script>
+        function myFunction()
+        {
+            x=document.getElementById("section2");  // 找到元素
+            x.innerHTML="Hello JavaScript!";    // 改变内容
+        }
+        </script>
+        <button type="button" onclick="myFunction()">点击这里</button>
+    <p>
+        <input type="button" style="cursor:none;" value="This is a button which could hide mouse when hovering"/>
+    </p>
+    <p>
+        <button onclick="functionA()">Click Here Please!</button>
+        <script>
+            function functionA()
+            {
+                var firstname = "jasson";
+                var lastname = "damp";
+                alert("Hello"+' '+firstname+lastname);
+            }
+        </script>
+    </p>
+</div>
+</div>
+</body>
+</html>
