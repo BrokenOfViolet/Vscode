@@ -1,0 +1,46 @@
+/* 全局样式 */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4; /* 添加整体背景色 */
+}
+
+/* 导航栏样式 */
+nav {
+  background-color: #333;
+  color: white;
+  border-bottom: 3px solid #FFD700; /* 添加底部边框，模拟立体感 */
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none; /* 去掉链接下划线 */
+  color: white;
+  background-color: #333; /* 导航栏链接背景色 */
+  border-radius: 5px; /* 圆角边框 */
+}
+
+nav ul li a:hover {
+  background-color: #555;
+}
+
+.login-btn {
+  float: right; /* 将登录按钮浮动至右侧 */
+}
+
+/* 主要内容样式 */
+.content {
+  padding: 20px;
+}

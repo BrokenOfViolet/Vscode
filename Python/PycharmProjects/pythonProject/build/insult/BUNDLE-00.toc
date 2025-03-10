@@ -1,0 +1,3 @@
+([('insult',
+   '/Users/mac/PycharmProjects/pythonProject/dist/insult',
+   'EXECUTABLE')],)

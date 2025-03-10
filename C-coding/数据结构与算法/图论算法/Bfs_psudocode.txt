@@ -1,0 +1,30 @@
+
+function BFS_shortest_path(start, target, graph):
+    queue = empty queue
+    visited = set()  // 存储已访问的节点
+    predecessor = map()  // 存储节点的前驱节点
+
+    // 初始化起始节点
+    queue.enqueue(start)
+    visited.add(start)
+    predecessor[start] = null
+
+    // BFS遍历
+    while queue is not empty:
+        current = queue.dequeue()
+        if current == target:
+            break
+        for neighbor in graph.adjacent(current):
+            if neighbor not in visited:
+                queue.enqueue(neighbor)
+                visited.add(neighbor)
+                predecessor[neighbor] = current
+
+    // 重建最短路径
+    path = []
+    node = target
+    while node is not null:
+        path.prepend(node)
+        node = predecessor[node]
+
+    return path

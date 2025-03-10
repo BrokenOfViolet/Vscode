@@ -1,0 +1,13 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/mac/Vscode/C-coding/Algotithm/Graphical_algorithm/unweightedDist'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _newAdjListNode, symObjAddr: 0x0, symBinAddr: 0x100000A10, symSize: 0x40 }
+  - { offsetInCU: 0xD4, offset: 0xD4, size: 0x8, addend: 0x0, symName: _newAdjListNode, symObjAddr: 0x0, symBinAddr: 0x100000A10, symSize: 0x40 }
+  - { offsetInCU: 0x10A, offset: 0x10A, size: 0x8, addend: 0x0, symName: _createGraph, symObjAddr: 0x40, symBinAddr: 0x100000A50, symSize: 0x80 }
+  - { offsetInCU: 0x15C, offset: 0x15C, size: 0x8, addend: 0x0, symName: _addEdge, symObjAddr: 0xC0, symBinAddr: 0x100000AD0, symSize: 0x50 }
+  - { offsetInCU: 0x1AA, offset: 0x1AA, size: 0x8, addend: 0x0, symName: _printGraph, symObjAddr: 0x110, symBinAddr: 0x100000B20, symSize: 0xA0 }
+  - { offsetInCU: 0x206, offset: 0x206, size: 0x8, addend: 0x0, symName: _unweighted, symObjAddr: 0x1B0, symBinAddr: 0x100000BC0, symSize: 0x1B0 }
+  - { offsetInCU: 0x2C4, offset: 0x2C4, size: 0x8, addend: 0x0, symName: _printTable, symObjAddr: 0x360, symBinAddr: 0x100000D70, symSize: 0x80 }
+  - { offsetInCU: 0x312, offset: 0x312, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3E0, symBinAddr: 0x100000DF0, symSize: 0x14C }
+...

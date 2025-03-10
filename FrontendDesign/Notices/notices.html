@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropdown Navigation Bar</title>
+    <style>
+        /* 导航栏样式 */
+        .navbar {
+            background-color: #333;
+            overflow: hidden;
+        }
+
+        /* 导航栏中的链接 */
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+
+        /* 鼠标悬停时的效果 */
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        /* 下拉容器 */
+        .dropdown {
+            float: left;
+            overflow: hidden;
+        }
+
+        /* 下拉按钮样式 */
+        .dropdown .dropbtn {
+            font-size: 16px;
+            border: none;
+            outline: none;
+            color: white;
+            padding: 14px 20px;
+            background-color: inherit;
+            margin: 0;
+        }
+
+        /* 下拉内容样式 */
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        /* 下拉内容中的链接 */
+        .dropdown-content a {
+            float: none;
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+        }
+
+        /* 鼠标悬停下拉内容时的效果 */
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
+
+        /* 鼠标悬停下拉按钮时显示下拉内容 */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        /* 鼠标悬停下拉按钮时按钮颜色变化 */
+        .dropdown:hover .dropbtn {
+            background-color: #ddd;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navbar">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <div class="dropdown">
+            <button class="dropbtn">Services 
+                &#9660;
+            </button>
+            <div class="dropdown-content">
+                <a href="#web-design">Web Design</a>
+                <a href="#seo">SEO</a>
+                <a href="#marketing">Marketing</a>
+            </div>
+        </div> 
+        <a href="#contact">Contact</a>
+    </div>
+
+</body>
+</html>

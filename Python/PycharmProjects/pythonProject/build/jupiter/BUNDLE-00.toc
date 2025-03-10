@@ -1,0 +1,3 @@
+([('jupiter',
+   '/Users/mac/PycharmProjects/pythonProject/dist/jupiter',
+   'EXECUTABLE')],)

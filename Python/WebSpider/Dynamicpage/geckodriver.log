@@ -1,0 +1,140 @@
+1710858174020	geckodriver	INFO	Listening on 127.0.0.1:64258
+1710858174539	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/74/n7cv8hrx2_gbwbzqphkymnj80000gn/T/rust_mozprofilerzr0lS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710858175335	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1710858175499	Marionette	INFO	Listening on port 64266
+WebDriver BiDi listening on ws://127.0.0.1:64259
+1710858175551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64259/devtools/browser/1a70b180-f5bf-4cfa-885c-1e7ba0ff2503
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3770: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://g.csdnimg.cn/tingyun/tingyun.js, line 3: Script terminated by timeout at:
+Kt.prototype.end@https://g.csdnimg.cn/tingyun/tingyun.js:3:2499
+sr@https://g.csdnimg.cn/tingyun/tingyun.js:2:2659
+cr@https://g.csdnimg.cn/tingyun/tingyun.js:2:2680
+emit/window.TINGYUN<@https://g.csdnimg.cn/tingyun/tingyun.js:2:27371
+a@https://g.csdnimg.cn/tingyun/tingyun.js:1:871
+emit@https://g.csdnimg.cn/tingyun/tingyun.js:2:27346
+Re/</<@https://g.csdnimg.cn/tingyun/tingyun.js:1:18370
+
+1710858188926	Marionette	INFO	Stopped listening on port 64266
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1710860209042	geckodriver	INFO	Listening on 127.0.0.1:56580
+1710860209050	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/74/n7cv8hrx2_gbwbzqphkymnj80000gn/T/rust_mozprofiletDQVHE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710860209977	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1710860210161	Marionette	INFO	Listening on port 56586
+WebDriver BiDi listening on ws://127.0.0.1:56581
+1710860210324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56581/devtools/browser/d4c26792-4b6f-4589-9ca8-453b43a79eea
+JavaScript warning: https://s3.music.126.net/web/s/core_68e6bfa8b271f010cf6aea1c538364fc.js?68e6bfa8b271f010cf6aea1c538364fc, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_68e6bfa8b271f010cf6aea1c538364fc.js?68e6bfa8b271f010cf6aea1c538364fc, line 96: unreachable code after return statement
+JavaScript warning: https://st.music.163.com/device/signature/create/deviceid.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.music.163.com/device/signature/create/deviceid.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Varying `varyinTexCoordinate` has static-use in the frag shader, but is undeclared in the vert shader.
+JavaScript warning: , line 0: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: The current program is not linked.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Varying `varyinTexCoordinate` has static-use in the frag shader, but is undeclared in the vert shader.
+JavaScript warning: , line 0: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: The current program is not linked.
+2024-03-19 14:56:59.923 Firefox Media Plugin Helper[96168:779248] Failure on line 686 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+1710860240539	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3770: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: http://s6.music.126.net/static_public/5e7dd9894cb30d2fd378f94f/2.12.2-beta.0/music-corona.min.js, line 1: Script terminated by timeout at:
+t@http://s6.music.126.net/static_public/5e7dd9894cb30d2fd378f94f/2.12.2-beta.0/music-corona.min.js:1:8433
+
+1710860300407	Marionette	INFO	Stopped listening on port 56586
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1710860304050	geckodriver	INFO	Listening on 127.0.0.1:57463
+1710860304559	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/74/n7cv8hrx2_gbwbzqphkymnj80000gn/T/rust_mozprofilecnYb30"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710860305349	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1710860305512	Marionette	INFO	Listening on port 57471
+WebDriver BiDi listening on ws://127.0.0.1:57464
+1710860305588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57464/devtools/browser/b5ec9232-a681-4e28-9dc0-0818e2f18fc1
+JavaScript warning: https://s3.music.126.net/web/s/core_68e6bfa8b271f010cf6aea1c538364fc.js?68e6bfa8b271f010cf6aea1c538364fc, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_68e6bfa8b271f010cf6aea1c538364fc.js?68e6bfa8b271f010cf6aea1c538364fc, line 96: unreachable code after return statement
+JavaScript warning: https://st.music.163.com/device/signature/create/deviceid.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Varying `varyinTexCoordinate` has static-use in the frag shader, but is undeclared in the vert shader.
+JavaScript warning: , line 0: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: The current program is not linked.
+JavaScript warning: https://st.music.163.com/device/signature/create/deviceid.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Varying `varyinTexCoordinate` has static-use in the frag shader, but is undeclared in the vert shader.
+JavaScript warning: , line 0: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: The current program is not linked.
+2024-03-19 14:58:34.048 Firefox Media Plugin Helper[96248:781061] Failure on line 686 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+1710860335869	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://s3.music.126.net/web/s/core_68e6bfa8b271f010cf6aea1c538364fc.js?68e6bfa8b271f010cf6aea1c538364fc, line 143: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 96237, MediaDecoderStateMachine #1] WARNING: 1256031a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:319
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3770: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: http://s6.music.126.net/static_public/5e7dd9894cb30d2fd378f94f/2.12.2-beta.0/music-corona.min.js, line 1: Script terminated by timeout at:
+t@http://s6.music.126.net/static_public/5e7dd9894cb30d2fd378f94f/2.12.2-beta.0/music-corona.min.js:1:8433
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+2024-03-19 23:00:57.646 firefox[96228:780460] _TIPropertyValueIsValid called with 11 on nil context!
+2024-03-19 23:00:57.646 firefox[96228:780460] imkxpc_setApplicationProperty:value:reply: called with incorrect property value 11, bailing.
+2024-03-19 23:00:57.646 firefox[96228:780460] _TIPropertyValueIsValid called with 12 on nil context!
+2024-03-19 23:00:57.646 firefox[96228:780460] imkxpc_setApplicationProperty:value:reply: called with incorrect property value 12, bailing.
+2024-03-19 23:00:59.552 firefox[96228:780460] _TIPropertyValueIsValid called with 12 on nil context!
+2024-03-19 23:00:59.552 firefox[96228:780460] imkxpc_setApplicationProperty:value:reply: called with incorrect property value 12, bailing.
+1710860486396	geckodriver	INFO	Listening on 127.0.0.1:58676
+1710860486423	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/74/n7cv8hrx2_gbwbzqphkymnj80000gn/T/rust_mozprofileXF0WJn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710860487250	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1710860487425	Marionette	INFO	Listening on port 58682
+WebDriver BiDi listening on ws://127.0.0.1:58677
+2024-03-19 23:01:27.481 firefox[96332:783783] _TIPropertyValueIsValid called with 11 on nil context!
+2024-03-19 23:01:27.481 firefox[96332:783783] imkxpc_setApplicationProperty:value:reply: called with incorrect property value 11, bailing.
+2024-03-19 23:01:27.482 firefox[96332:783783] _TIPropertyValueIsValid called with 12 on nil context!
+2024-03-19 23:01:27.482 firefox[96332:783783] imkxpc_setApplicationProperty:value:reply: called with incorrect property value 12, bailing.
+1710860487513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-03-19 23:01:28.572 firefox[96332:783783] _TIPropertyValueIsValid called with 12 on nil context!
+2024-03-19 23:01:28.572 firefox[96332:783783] imkxpc_setApplicationProperty:value:reply: called with incorrect property value 12, bailing.
+DevTools listening on ws://127.0.0.1:58677/devtools/browser/0bb25dae-fdae-4cdf-987b-44d5310db987
+JavaScript warning: https://s3.music.126.net/web/s/core_68e6bfa8b271f010cf6aea1c538364fc.js?68e6bfa8b271f010cf6aea1c538364fc, line 96: unreachable code after return statement
+JavaScript error: https://s3.music.126.net/web/s/core_68e6bfa8b271f010cf6aea1c538364fc.js?68e6bfa8b271f010cf6aea1c538364fc, line 103: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript warning: https://s3.music.126.net/web/s/core_68e6bfa8b271f010cf6aea1c538364fc.js?68e6bfa8b271f010cf6aea1c538364fc, line 96: unreachable code after return statement
+1710860491501	Marionette	INFO	Stopped listening on port 57471
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://st.music.163.com/device/signature/create/deviceid.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Varying `varyinTexCoordinate` has static-use in the frag shader, but is undeclared in the vert shader.
+JavaScript warning: , line 0: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: The current program is not linked.
+JavaScript warning: https://st.music.163.com/device/signature/create/deviceid.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: linkProgram: Varying `varyinTexCoordinate` has static-use in the frag shader, but is undeclared in the vert shader.
+JavaScript warning: , line 0: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: , line 0: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: The current program is not linked.
+2024-03-19 15:01:35.918 Firefox Media Plugin Helper[96359:784602] Failure on line 686 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2024-03-19 23:01:42.363 firefox[96332:783783] CoreText note: Client requested name ".SFNS-Regular", it will get TimesNewRomanPSMT rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2024-03-19 23:01:42.364 firefox[96332:783783] CoreText note: Set a breakpoint on CTFontLogSystemFontNameRequest to debug.
+2024-03-19 23:01:42.394 firefox[96332:783783] CoreText note: Client requested name ".SFNS-Regular", it will get TimesNewRomanPSMT rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2024-03-19 23:01:42.394 firefox[96332:783783] CoreText note: Client requested name ".SFNS-Regular", it will get TimesNewRomanPSMT rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+1710860517308	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+2024-03-19 23:01:57.563 firefox[96332:783783] CoreText note: Client requested name ".SFNS-Regular", it will get TimesNewRomanPSMT rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2024-03-19 23:01:57.563 firefox[96332:783783] CoreText note: Client requested name ".SFNS-Regular", it will get TimesNewRomanPSMT rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2024-03-19 23:01:57.564 firefox[96332:783783] CoreText note: Client requested name ".SFNS-Regular", it will get TimesNewRomanPSMT rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2024-03-19 23:01:57.594 firefox[96332:783783] CoreText note: Client requested name ".SFNS-Regular", it will get TimesNewRomanPSMT rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2024-03-19 23:01:57.594 firefox[96332:783783] CoreText note: Client requested name ".SFNS-Regular", it will get TimesNewRomanPSMT rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+2024-03-19 23:01:57.594 firefox[96332:783783] CoreText note: Client requested name ".SFNS-Regular", it will get TimesNewRomanPSMT rather than the intended font. All system UI font access should be through proper APIs such as CTFontCreateUIFontForLanguage() or +[NSFont systemFontOfSize:].
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3770: TypeError: this._windows[aWindow.__SSi] is undefined
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+1710861509248	Marionette	INFO	Stopped listening on port 58682
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
